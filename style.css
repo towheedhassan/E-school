@@ -53,7 +53,6 @@ span{
 .c-shadow{
   box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
   border-radius: 12px;
-  width: 270px;
   height: 270px;
 }
 .c-shadow h4{
